@@ -1,0 +1,14 @@
+public class Bitflipper
+public static viod main(String[] args){
+Scanner input = newScanner(System.in);
+System.out.println("enter number");
+int user input = input nextInt();
+if(user input == 0){
+System.out.println(1);
+}
+if(user input == 1){
+System.out.println(0);
+}
+}
+}
+
